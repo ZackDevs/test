@@ -1,0 +1,5 @@
+{
+    "prefix": "+",
+    "redisPath": "//redis-15403.c17.us-east-1-4.ec2.cloud.redislabs.com:15403?password=4p5g9J2Zu8A1uEnM5G0kuO51ZRiOGbEw",
+    "mongoPath": "mongodb://localhost:27017/glidebot"
+}
